@@ -1,5 +1,5 @@
 # RandomQuotes
-A beautiful random code generator webpage by me :')
+A beautiful random Quote generator webpage by me :')
 
 * Check it here:-
 https://shorturl.at/cHI07
