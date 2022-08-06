@@ -2,4 +2,4 @@
 A beautiful random code generator webpage by me :')
 
 * Check it here:-
-https://shorturl.at/bDQS1
+https://shorturl.at/cHI07
