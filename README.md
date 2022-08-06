@@ -2,4 +2,4 @@
 A beautiful random Quote generator webpage by me :')
 
 * Check it here:-
-https://shorturl.at/cHI07
+https://prepbuddy-8wmarpibe-akash23q2.vercel.app/quote.html
